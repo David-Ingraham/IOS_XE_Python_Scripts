@@ -1,6 +1,5 @@
 # IOS XE Python Scripts
 
-Inspired by the [CiscoDevNet/python_code_samples_network](https://github.com/CiscoDevNet/python_code_samples_network) repository.
 
 ## Project Structure
 
